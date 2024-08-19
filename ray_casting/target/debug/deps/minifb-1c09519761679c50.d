@@ -1,0 +1,12 @@
+C:\Users\javie\ray_casting\target\debug\deps\libminifb-1c09519761679c50.rmeta: C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\error.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\icon.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\key.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\key_handler.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\os\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\os\windows\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\rate.rs
+
+C:\Users\javie\ray_casting\target\debug\deps\minifb-1c09519761679c50.d: C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\error.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\icon.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\key.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\key_handler.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\os\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\os\windows\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\rate.rs
+
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\lib.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\error.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\icon.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\key.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\key_handler.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\os\mod.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\os\windows\mod.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\minifb-0.27.0\src\rate.rs:

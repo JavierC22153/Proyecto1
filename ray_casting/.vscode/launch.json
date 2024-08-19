@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Rust Program",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/target/debug/ray_casting.exe", // Actualizado a .exe
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "cargo build",
+      "stopAtEntry": false,
+      "env": {},
+      "externalConsole": false,
+      "internalConsoleOptions": "openOnSessionStart",
+      "justMyCode": true
+    }
+  ]
+}

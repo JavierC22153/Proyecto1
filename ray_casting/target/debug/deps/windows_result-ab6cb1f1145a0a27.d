@@ -1,0 +1,10 @@
+C:\Users\javie\ray_casting\target\debug\deps\libwindows_result-ab6cb1f1145a0a27.rmeta: C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\javie\ray_casting\target\debug\deps\windows_result-ab6cb1f1145a0a27.d: C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs:
