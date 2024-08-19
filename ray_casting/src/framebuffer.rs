@@ -1,5 +1,6 @@
 use crate::color::Color;
 use crate::bmp::write_bmp_file;
+use image::Rgba;
 
 pub struct FrameBuffer {
     pub width: usize,
@@ -26,9 +27,11 @@ impl FrameBuffer {
         self.buffer.fill(self.background_color);
     }
 
-    pub fn set_pixel(&mut self, x: usize, y: usize) {
+    pub fn set_pixel(&mut self, x: usize, y: usize, color: Color) {
         if x < self.width && y < self.height {
-            self.buffer[self.width * y + x] = self.current_color;
+            self.buffer[self.width * y + x] = color;
+        } else {
+            eprintln!("Warning: Trying to set pixel out of bounds at ({}, {})", x, y);
         }
     }
 
@@ -36,14 +39,13 @@ impl FrameBuffer {
         // Asegúrate de que el rectángulo esté dentro del búfer
         let x_end = (x + width).min(self.width);
         let y_end = (y + height).min(self.height);
-
-        for i in x..x_end {
-            for j in y..y_end {
-                self.buffer[self.width * j + i] = self.current_color;
-            }
+    
+        for j in y..y_end {
+            let start_index = self.width * j + x;
+            let end_index = start_index + (x_end - x);
+            self.buffer[start_index..end_index].fill(self.current_color);
         }
     }
-
     pub fn set_background_color(&mut self, color: Color) {
         self.background_color = color;
     }
@@ -69,3 +71,4 @@ impl FrameBuffer {
         self.buffer.iter().map(|color| color.to_hex()).collect()
     }
 }
+
